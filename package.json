@@ -1,0 +1,17 @@
+{
+	"name": "hw-01-contacts",
+	"version": "1.0.0",
+	"description": "hw-01",
+	"main": "index.js",
+	"homepage": "https://aleksanrkotlyar.github.io/HW-01-Contacts/",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index",
+		"dev": "nodemon index"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
